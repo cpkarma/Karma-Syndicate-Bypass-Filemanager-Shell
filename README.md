@@ -1,4 +1,4 @@
-## Syndicate Bypass Filemanager Shell
+## Syndicate Ultimate Bypass Filemanager Shell
 
 **Syndicate Bypass Filemanager Shell:** The Ultimate Web Exploitation File Manager
 
