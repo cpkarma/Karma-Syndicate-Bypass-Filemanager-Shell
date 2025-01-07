@@ -6,11 +6,11 @@ Syndicate Bypass Filemanager Shell is a cutting-edge, stealthy file manager engi
 
 **Key Features:**
 
-+ Advanced Security Bypass: Effortlessly navigates through firewalls, WAFs, and other restrictive web defenses.
-+ Stealth Uploads: Operates undetected, ensuring your activities remain under the radar.
-+ Universal Compatibility: Supports a wide range of server environments, making it versatile and dependable.
-+ Comprehensive File Management: Upload, download, edit, and execute files with precision and ease.
-+ Robust Stability: Performs flawlessly in environments where other tools fail.
++ **Advanced Security Bypass:** Effortlessly navigates through firewalls, WAFs, and other restrictive web defenses.
++ **Stealth Uploads:** Operates undetected, ensuring your activities remain under the radar.
++ **Universal Compatibility:** Supports a wide range of server environments, making it versatile and dependable.
++ **Comprehensive File Management:** Upload, download, edit, and execute files with precision and ease.
++ **Robust Stability:** Performs flawlessly in environments where other tools fail.
 
 **Warning:** Syndicate Bypass Filemanager Shell is a powerful tool intended for ethical penetration testing, security assessments, and legal purposes only. Misuse for unauthorized activities is strictly prohibited.
 
